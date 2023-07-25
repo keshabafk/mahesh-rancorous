@@ -1,1 +1,0 @@
-psql "postgres://default:zvTLUrh0FlN4@ep-rapid-band-16327867.ap-southeast-1.postgres.vercel-storage.com:5432/verceldb"
