@@ -1,3 +1,7 @@
+$(function() {
+  $("#navigation").load(".C:\herbs\navbar.html");
+});
+
 let cart = document.querySelector('.shopping-cart');
 
 document.querySelector('#cart-btn').onclick = () =>{
